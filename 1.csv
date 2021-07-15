@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Denise Lanoue,Denise,Lanoue,Initials,www.initials-inc.com
-Vibhu Norby,Vibhu,Norby,"b8ta, Inc.",www.b8ta.com
-David Armstrong,David,Armstrong,Charles Koll Jewellers,www.charleskoll.com
-Ray Delmuro,Ray,Delmuro,"Refresh Glass, LLC",www.refreshglass.com
-Ervin Gomez,Ervin,Gomez,"b8ta, Inc.",www.b8ta.com
-Spiro Alafassos,Spiro,Alafassos,PlayBetter.com,www.playbetter.com
-Fred Kaoud,Fred,Kaoud,Kaoud Carpets and Rugs,www.kaouds.com
-Hogan Heidorn,Hogan,Heidorn,Hungry Howie's Pizza,www.hungryhowies.com
-Holly Sabbadini,Holly,Sabbadini,Initials,www.initials-inc.com
-Chrissy Chandler,Chrissy,Chandler,Amazing Lace,www.amazinglace.com
-Jerry Lin,Jerry,Lin,"Helix Sleep, Inc.",www.helixsleep.com
-Kenya Graham,Kenya,Graham,"Spanx, Inc.",www.spanx.com
-Brenda Black,Brenda,Black,Westwood Gardens,www.westwoodgardens.com
-Andrew Koutsoukos,Andrew,Koutsoukos,SHOES-n-FEET,www.shoesnfeet.com
-Michael Watson,Michael,Watson,Gallery of Diamonds,www.galleryofdiamonds.com
-Tom Dunsirn,Tom,Dunsirn,Sunset Hill Stoneware,www.shstoneware.com
-Niche Modern,Niche,Modern,Niche Modern,www.nichemodern.com
-Farhan J M Parekh,Farhan,Parekh,Haberdasher,www.haberdasherinc.com
-Yarden Katz,Yarden,Katz,Carbon & Hyde,www.carbonandhyde.com
-Rebecca Berger,,,Born4Bikinis.com,www.born4bikinis.com
+First Last,First,Last,Company,Domain,civility,company,company_linkedin,first_name,full_name,last_name,linkedin,phone,website,error,mailQuery,mailTimestamp,email,qualification
+Ryan Ragsdale,Ryan,Ragsdale,"Supplement Giant, Inc.",www.supplementgiant.com,Mr,"Supplement Giant, Inc.",www.linkedin.com/company/supplement-giant,Ryan,Ryan Ragsdale,Ragsdale,www.linkedin.com/in/ryan-ragsdale-58425035,+1 303-745-0028,www.supplementgiant.com,No email found,"Ryan Ragsdale | Supplement Giant, Inc. | www.supplementgiant.com",2021-07-11T20:32:57.232Z,,
+Mara Heppes,Mara,Heppes,The Juice Plus+ Company,www.juiceplus.com,Mrs,The Juice Plus+ Company,www.linkedin.com/company/thejuicepluscompany,Mara,Mara Heppes,Heppes,www.linkedin.com/in/mara-heppes-2728a982,+353 1 907 9949,www.juiceplus.com,No email found,Mara Heppes | The Juice Plus+ Company | www.juiceplus.com,2021-07-11T20:33:21.327Z,,
+Savannah Jill Silvas,Savannah,Silvas,"Genesis Pure, Inc",www.genesispure.com,Mrs,"Genesis Pure,",www.linkedin.com/company/genesis-pure,Savannah,Savannah Silvas,Silvas,www.linkedin.com/in/savannah-silvas-93b42b98,,www.genesispure.com,No email found,"Savannah Jill Silvas | Genesis Pure, Inc | www.genesispure.com",2021-07-11T20:33:32.167Z,,
+Vanessa Troost,Vanessa,Troost,"Genesis Pure, Inc",www.genesispure.com,Mrs,"Genesis Pure,",www.linkedin.com/company/genesis-pure,Vanessa,Vanessa Troost,Troost,www.linkedin.com/in/vanessa-troost-88a35a74,,www.genesispure.com,No email found,"Vanessa Troost | Genesis Pure, Inc | www.genesispure.com",2021-07-11T20:33:42.615Z,,
+Mark Herrin,Mark,Herrin,Sundrops Vitamins & Nutrition,www.sundrops.com,Mr,Sundrops Vitamins & Nutrition,www.linkedin.com/company/sundrops-vitamins-&-nutrition,Mark,Mark Herrin,Herrin,www.linkedin.com/in/sundropsvitamins,,www.sundrops.com,,Mark Herrin | Sundrops Vitamins & Nutrition | www.sundrops.com,2021-07-11T20:33:58.111Z,mark@sundrops.com,nominative@pro
+Michael Zaccardo,Michael,Zaccardo,New Life Vitamins,www.newlifevitamins.com,Mr,New Life Vitamins,www.linkedin.com/company/new-life-vitamins,Michael,Michael Zaccardo,Zaccardo,www.linkedin.com/in/michael-zaccardo-a786732a,+1 888-777-0468,www.newlifevitamins.com,,Michael Zaccardo | New Life Vitamins | www.newlifevitamins.com,2021-07-11T20:34:10.250Z,michael@newlifevitamins.com,nominative@pro
+Caleb Dean,Caleb,Dean,Cambridge Naturals,www.cambridgenaturals.com,Mr,Cambridge Naturals,www.linkedin.com/company/cambridge-naturals,Caleb,Caleb Dean,Dean,www.linkedin.com/in/calebdean,+61 74924452,www.cambridgenaturals.com,,Caleb Dean | Cambridge Naturals | www.cambridgenaturals.com,2021-07-11T20:34:27.316Z,caleb@cambridgenaturals.com,nominative@pro
+Carlette Anderson,Carlette,Anderson,"Genesis Pure, Inc",www.genesispure.com,Mrs,"Genesis Pure,",www.linkedin.com/company/genesis-pure,Carlette,Carlette Anderson,Anderson,,,www.genesispure.com,No email found,"Carlette Anderson | Genesis Pure, Inc | www.genesispure.com",2021-07-11T20:34:43.900Z,,
+Ryan Montgomery,Ryan,Montgomery,Reliv International Inc,www.reliv.com,Mr,Reliv International,www.linkedin.com/company/reliv-international,Ryan,Ryan Montgomery,Montgomery,www.linkedin.com/in/ryan-montgomery-85083747,+61 2 9852 7000,www.reliv.com,,Ryan Montgomery | Reliv International Inc | www.reliv.com,2021-07-11T20:34:50.215Z,ryanmontgomery@reliv.fr,catch-all@pro
+Mary Eaker,Mary,Eaker,The Juice Plus+ Company,www.juiceplus.com,Mrs,The Juice Plus+ Company,www.linkedin.com/company/thejuicepluscompany,Mary,Mary Eaker,Eaker,www.linkedin.com/in/mary-eaker-89b33496,+353 1 907 9949,www.juiceplus.com,No email found,Mary Eaker | The Juice Plus+ Company | www.juiceplus.com,2021-07-11T20:35:12.746Z,,
+Frank Mueller,Frank,Mueller,Healthy Dining,www.healthydiningfinder.com,Mr,Healthy Dining,www.linkedin.com/company/healthy-dining,Frank,Frank Mueller,Mueller,www.linkedin.com/in/frank-mueller-b0674214,,www.healthydiningfinder.com,,Frank Mueller | Healthy Dining | www.healthydiningfinder.com,2021-07-11T20:35:29.557Z,frank@healthydiningfinder.com,nominative@pro
+Colin Pickert,Colin,Pickert,"Genesis Pure, Inc",www.genesispure.com,Mr,"Genesis Pure,",www.linkedin.com/company/genesis-pure,Colin,Colin Pickert,Pickert,www.linkedin.com/in/colin-pickert-2b88a184,,www.genesispure.com,No email found,"Colin Pickert | Genesis Pure, Inc | www.genesispure.com",2021-07-11T20:35:40.452Z,,
+Joann Ruff,Joann,Ruff,"Genesis Pure, Inc",www.genesispure.com,Mrs,"Genesis Pure,",www.linkedin.com/company/genesis-pure,Joann,Joann Ruff,Ruff,www.linkedin.com/in/joann-ruff-9940b281,,www.genesispure.com,No email found,"Joann Ruff | Genesis Pure, Inc | www.genesispure.com",2021-07-11T20:35:52.062Z,,
+Morgan Barlow,Morgan,Barlow,Ultimate Fighting Championship Ltd.,www.ufc.com,Mr,Ultimate Fighting Championship Ltd.,www.linkedin.com/company/ufc,Morgan,Morgan Barlow,Barlow,,+1 866-983-0571,www.ufc.com,,Morgan Barlow | Ultimate Fighting Championship Ltd. | www.ufc.com,2021-07-11T20:36:03.894Z,mbarlow@ufc.com,catch-all@pro
+Christopher Phillips,Christopher,Phillips,The Juice Plus+ Company,www.juiceplus.com,Mr,The Juice Plus+ Company,www.linkedin.com/company/thejuicepluscompany,Christopher,Christopher Phillips,Phillips,www.linkedin.com/in/christopher-phillips-5275b411,+353 1 907 9949,www.juiceplus.com,No email found,Christopher Phillips | The Juice Plus+ Company | www.juiceplus.com,2021-07-11T20:36:19.960Z,,
+Amir Kaghazwala,Amir,Kaghazwala,Vita-Mix Corporation,www.vitamix.com,Mr,Vita-Mix Corporation,www.linkedin.com/company/vita-mix-corporation,Amir,Amir Kaghazwala,Kaghazwala,www.linkedin.com/in/amir-kaghazwala-6639692a,+1 440-235-4840,www.vitamix.com,,Amir Kaghazwala | Vita-Mix Corporation | www.vitamix.com,2021-07-11T20:36:31.458Z,akaghazwala@vitamix.com,catch-all@pro
+Diane Mary Garves,Diane,Garves,The Juice Plus+ Company,www.juiceplus.com,Mrs,The Juice Plus+ Company,www.linkedin.com/company/thejuicepluscompany,Diane,Diane Garves,Garves,www.linkedin.com/in/dianegarves,+353 1 907 9949,www.juiceplus.com,No email found,Diane Mary Garves | The Juice Plus+ Company | www.juiceplus.com,2021-07-11T20:36:47.133Z,,
+Meridith Horner,Meridith,Horner,"Genesis Pure, Inc",www.genesispure.com,Mrs,"Genesis Pure,",www.linkedin.com/company/genesis-pure,Meridith,Meridith Horner,Horner,,,www.genesispure.com,No email found,"Meridith Horner | Genesis Pure, Inc | www.genesispure.com",2021-07-11T20:37:03.371Z,,
+Danielle Keeney,Danielle,Keeney,"Genesis Pure, Inc",www.genesispure.com,Mrs,"Genesis Pure,",www.linkedin.com/company/genesis-pure,Danielle,Danielle Keeney,Keeney,www.linkedin.com/in/danielle-keeney-2b75683b,,www.genesispure.com,No email found,"Danielle Keeney | Genesis Pure, Inc | www.genesispure.com",2021-07-11T20:37:14.918Z,,
+Megan Demuth,,,The Juice Plus+ Company,www.juiceplus.com,Mrs,The Juice Plus+ Company,www.linkedin.com/company/thejuicepluscompany,Megan,Megan Demuth,Demuth,www.linkedin.com/in/megan-demuth-279a9b49,+353 1 907 9949,www.juiceplus.com,No email found,Megan Demuth | The Juice Plus+ Company | www.juiceplus.com,2021-07-11T20:37:32.360Z,,

@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Danny Pilkey,Danny,Pilkey,Ace Hardware Corporation,www.acehardware.com
-Scott Matthew Marquart,Scott,Marquart,Stringjoy,www.stringjoy.com
-Christine Gechas,Christine,Gechas,WineStyles Tasting Station,www.winestyles.com
-Heather Gaertner,Heather,Gaertner,Flip Flop Shops,www.flipflopshops.com
-Gihan Amarasiriwardena,Gihan,Amarasiriwardena,"Ministry of Supply, Inc.",www.ministryofsupply.com
-Kristine Bell,Kristine,Bell,"David Zwirner, Inc.",www.davidzwirner.com
-Onofrio Demattia,Onofrio,Demattia,"Budget Blinds, Inc.",www.budgetblinds.com
-Carol Evans Phillips,Carol,Phillips,Whimsy Clothing Boutiques,www.whimsyclothing.com
-Lee Gentile,Lee,Gentile,Ben& Jerry's,www.benjerry.com
-Nevena Borissova,Nevena,Borissova,Curve,www.shopcurve.com
-Jacob Wurtz,Jacob,Wurtz,Happy Feet Plus,www.happyfeet.com
-Lauren Arterburn,Lauren,Arterburn,Ace Hardware Corporation,www.acehardware.com
-Kelley Munoz,Kelley,Munoz,West Coast Flooring Center,www.westcoastflooring.com
-Haley Pike,Haley,Pike,Initials,www.initials-inc.com
-Adriane Stollenwerck Stare,Adriane,Stare,Caribou Baby,www.cariboubaby.com
-John Mccormick,John,Mccormick,Baker Pool & Spa,www.bakerpool.com
-Sara Englehart,Sara,Englehart,"Spoonflower, Inc.",www.spoonflower.com
-Elizabeth Hilton,Elizabeth,Hilton,"Mainstream Fashions Franchising, Inc.",www.mainstreamboutique.com
-Joshua Vana,Joshua,Vana,Affordable Uniforms,www.affuniforms.com
-Seth Haber,,,Trek Light Gear,www.treklightgear.com
+First Last,First,Last,Company,Domain,email,qualification,civility,company,company_linkedin,first_name,full_name,last_name,linkedin,phone,website,mailQuery,mailTimestamp,error
+Matthew Martin,Matthew,Martin,"Healthy Solutions, Llc",www.healthysolutionsweb.com,matthew@healthysolutionsweb.com,nominative@pro,Mr,"Healthy Solutions,",www.linkedin.com/company/healthy-solutions-llc-contract-liquid-manufacturer,Matthew,Matthew Martin,Martin,www.linkedin.com/in/matthew-martin-b3322526,+1 800-391-3221,www.healthysolutionsweb.com,"Matthew Martin | Healthy Solutions, Llc | www.healthysolutionsweb.com",2021-07-11T20:34:21.338Z,
+Heather Ambrose Jarvis,Heather,Jarvis,"Genesis Pure, Inc",www.genesispure.com,,,Mrs,"Genesis Pure,",www.linkedin.com/company/genesis-pure,Heather,Heather Jarvis,Jarvis,www.linkedin.com/in/heather-ambrose-jarvis-243a5a70,,www.genesispure.com,"Heather Ambrose Jarvis | Genesis Pure, Inc | www.genesispure.com",2021-07-11T20:34:39.127Z,No email found
+Martha Drillette,Martha,Drillette,"Genesis Pure, Inc",www.genesispure.com,,,Mrs,"Genesis Pure,",www.linkedin.com/company/genesis-pure,Martha,Martha Drillette,Drillette,www.linkedin.com/in/martha-drillette-59a19436,,www.genesispure.com,"Martha Drillette | Genesis Pure, Inc | www.genesispure.com",2021-07-11T20:34:52.420Z,No email found
+Eddie Bellville,Eddie,Bellville,Visalus,www.visalus.com,,,Mr,Visalus,www.linkedin.com/company/visalus-,Eddie,Eddie Bellville,Bellville,www.linkedin.com/pub/eddie-bellville/41/851/3b,,www.visalus.com,Eddie Bellville | Visalus | www.visalus.com,2021-07-11T20:35:09.507Z,No email found
+Jerry Clark,Jerry,Clark,Sk Usa,www.smoothieking.com,,,Mr,Sk Usa,www.linkedin.com/company/smoothie-king,Jerry,Jerry Clark,Clark,,+1 800-577-4200,www.smoothieking.com,Jerry Clark | Sk Usa | www.smoothieking.com,2021-07-11T20:35:26.067Z,No email found
+Mike Nowak,Mike,Nowak,Michigan Health & Hospital Association,www.mha.org,mnowak@mha.org,nominative@pro,Mr,Michigan Health & Hospital Association,www.linkedin.com/company/michiganhospitals,Mike,Mike Nowak,Nowak,www.linkedin.com/in/mike-nowak-92821619,,www.mha.org,Mike Nowak | Michigan Health & Hospital Association | www.mha.org,2021-07-11T20:35:39.280Z,
+Denise Cassel Ehrich,Denise,Ehrich,Vitamin Shoppe Inc,www.vitaminshoppe.com,denise.ehrich@vitaminshoppe.com,nominative@pro,Mrs,Vitamin Shoppe,www.linkedin.com/company/the-vitamin-shoppe,Denise,Denise Ehrich,Ehrich,www.linkedin.com/in/denise-ehrich-2598a63,,www.vitaminshoppe.com,Denise Cassel Ehrich | Vitamin Shoppe Inc | www.vitaminshoppe.com,2021-07-11T20:36:10.415Z,
+Hannah Morris,Hannah,Morris,Sk Usa,www.smoothieking.com,,,Mrs,Sk Usa,www.linkedin.com/company/smoothie-king,Hannah,Hannah Morris,Morris,www.linkedin.com/in/morris-johnson-848b4031,+1 800-577-4200,www.smoothieking.com,Hannah Morris | Sk Usa | www.smoothieking.com,2021-07-11T20:36:32.110Z,No email found
+Iris Buntemeyer,Iris,Buntemeyer,Shaklee Authorized Distributor,www.shaklee.net,,,Mrs,Shaklee Authorized Distributor,www.linkedin.com/company/shaklee-distributor,Iris,Iris Buntemeyer,Buntemeyer,,,www.shaklee.net,Iris Buntemeyer | Shaklee Authorized Distributor | www.shaklee.net,2021-07-11T20:36:48.740Z,No email found
+Tara Veit,Tara,Veit,"Genesis Pure, Inc",www.genesispure.com,,,Mrs,"Genesis Pure,",www.linkedin.com/company/genesis-pure,Tara,Tara Veit,Veit,www.linkedin.com/in/tara-veit-2b4b642b,,www.genesispure.com,"Tara Veit | Genesis Pure, Inc | www.genesispure.com",2021-07-11T20:37:01.008Z,No email found
+Michelle Riggs,Michelle,Riggs,"Genesis Pure, Inc",www.genesispure.com,,,Mrs,"Genesis Pure,",www.linkedin.com/company/genesis-pure,Michelle,Michelle Riggs,Riggs,www.linkedin.com/in/helixcapitalgroupllc,,www.genesispure.com,"Michelle Riggs | Genesis Pure, Inc | www.genesispure.com",2021-07-11T20:37:12.839Z,No email found
+Joloyce Weise,Joloyce,Weise,"Genesis Pure, Inc",www.genesispure.com,,,,"Genesis Pure,",www.linkedin.com/company/genesis-pure,,Joloyce Weise,Joloyce Weise,,,www.genesispure.com,"Joloyce Weise | Genesis Pure, Inc | www.genesispure.com",2021-07-11T20:37:20.122Z,No email found
+Bridget Nicol Reid,Bridget,Reid,Visalus,www.visalus.com,,,Mrs,Visalus,www.linkedin.com/company/visalus-,Bridget,Bridget Reid,Reid,www.linkedin.com/in/bridgetreid24,,www.visalus.com,Bridget Nicol Reid | Visalus | www.visalus.com,2021-07-11T20:37:26.244Z,No email found
+Carin Brown,Carin,Brown,The Juice Plus+ Company,www.juiceplus.com,,,Mrs,The Juice Plus+ Company,www.linkedin.com/company/thejuicepluscompany,Carin,Carin Brown,Brown,www.linkedin.com/in/carin-brown-b795886a,+353 1 907 9949,www.juiceplus.com,Carin Brown | The Juice Plus+ Company | www.juiceplus.com,2021-07-11T20:37:44.943Z,No email found
+Jeff Buethe,Jeff,Buethe,Complete Nutrition,www.completenutrition.com,,,Mr,Complete Nutrition,www.linkedin.com/company/complete-nutrition,Jeff,Jeff Buethe,Buethe,www.linkedin.com/in/jeff-buethe-2a792a44,,www.completenutrition.com,Jeff Buethe | Complete Nutrition | www.completenutrition.com,2021-07-11T20:37:52.149Z,No email found
+Chris Whitaker,Chris,Whitaker,Sk Usa,www.smoothieking.com,,,Mr,Sk Usa,www.linkedin.com/company/smoothie-king,Chris,Chris Whitaker,Whitaker,,+1 800-577-4200,www.smoothieking.com,Chris Whitaker | Sk Usa | www.smoothieking.com,2021-07-11T20:38:16.183Z,No email found
+Main Hale,Main,Hale,"Genesis Pure, Inc",www.genesispure.com,,,Mr,"Genesis Pure,",www.linkedin.com/company/genesis-pure,Main,Main Hale,Hale,www.linkedin.com/in/main-hale-6030a8a2,,www.genesispure.com,"Main Hale | Genesis Pure, Inc | www.genesispure.com",2021-07-11T20:38:23.354Z,No email found
+Hans Peter Graubard,Hans,Graubard,"Nutrition Formulators, Inc.",www.nutritionformulators.com,hgraubard@nutritionformulators.com,nominative@pro,Mr,"Nutrition Formulators, Inc.",www.linkedin.com/company/nutrition-formulators-inc.,Hans,Hans Graubard,Graubard,www.linkedin.com/in/hansgraubard,+1 954-272-2220,www.nutritionformulators.com,"Hans Peter Graubard | Nutrition Formulators, Inc. | www.nutritionformulators.com",2021-07-11T20:38:45.602Z,
+Fred Salomon,Fred,Salomon,Allergy Research Group LLC,www.allergyresearchgroup.com,freds@allergyresearchgroup.com,nominative@pro,Mr,Allergy Research Group,www.linkedin.com/company/allergy-research-group,Fred,Fred Salomon,Salomon,www.linkedin.com/in/fred-salomon-29b588a9,+1 800-545-9960,www.allergyresearchgroup.com,Fred Salomon | Allergy Research Group LLC | www.allergyresearchgroup.com,2021-07-11T20:38:58.537Z,
+Janene Hackl,,,The Juice Plus+ Company,www.juiceplus.com,,,Mrs,The Juice Plus+ Company,www.linkedin.com/company/thejuicepluscompany,Janene,Janene Hackl,Hackl,,+353 1 907 9949,www.juiceplus.com,Janene Hackl | The Juice Plus+ Company | www.juiceplus.com,2021-07-11T20:39:17.155Z,No email found
